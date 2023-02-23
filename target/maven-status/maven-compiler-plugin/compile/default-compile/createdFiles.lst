@@ -1,0 +1,5 @@
+spring/mvc/course/models/Person.class
+spring/mvc/course/dao/PersonDAO.class
+spring/mvc/course/config/MySpringMvcDispatcherServletInitializer.class
+spring/mvc/course/config/SpringConfig.class
+spring/mvc/course/controllers/PeopleController.class
