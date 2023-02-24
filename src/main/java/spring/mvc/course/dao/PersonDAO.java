@@ -125,6 +125,5 @@ public class PersonDAO {
         } catch (SQLException e) {
             throw new RuntimeException(e);
         }
-
     }
 }
